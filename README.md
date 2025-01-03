@@ -1,6 +1,6 @@
 ## Airline Delay and Airport Performance
 
-In this project, I look into flight delay reasons across USA. The [dataset](https://www.transtats.bts.gov/ot_delay/OT_DelayCause1.asp?20=E) is obtained from the Bureau of Transportation Statistics. 
+In this project, I look into flight delay reasons across USA. This dataset is obtained from the Bureau of Transportation Statistics. 
 
 ### About the data
 
@@ -35,8 +35,5 @@ The scope of data for the two dashboards is Jan 2013 to Aug 2023. The various me
  - Data Modeling (fact & dimension tables, star schema, surrogate keys, SCD).
  - Data analysis - answering stakeholder’s questions via dashboards.
  - DAX calculations to create new measures, tables, and columns. 
- - Visualizations (line chart, bar chart, donut chart, card visuals, text boxes, conditional sub-headings, action-based buttons, icons as buttons, use of tooltips, accessible theme, etc.) 
-
-The comprehensive slides can be viewed [here](https://github.com/sarthakgirdhar/Personal-Projects/blob/master/Airline%20Delays%20and%20Airport%20Performance/Presentation%20slides.pdf). 
-
-Read the story on Medium - [here](https://ask-data.medium.com/a-look-into-flight-delay-across-usa-bf6ee6727211).
+ - Visualizations (line chart, bar chart, donut chart, card visuals, text boxes, conditional sub-headings, action-based buttons, icons as buttons, use of tooltips, accessible theme, etc.)
+   
